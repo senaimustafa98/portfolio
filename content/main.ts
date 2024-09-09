@@ -80,7 +80,7 @@ export const attributes = {
         title: 'UIoUXy',
       },
     ],
-    title: 'My work',
+    title: 'My future work',
   },
   footer: { text: '© John Doe' },
 };
